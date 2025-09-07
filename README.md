@@ -22,6 +22,7 @@ A Streamlit-powered SQL Injection testing dashboard for educational and authoriz
 	2.	Click Start Full Scan.
 	3.	View discovered inputs, payload tests, and successful exploit proofs.
 <img width="1492" height="884" alt="image" src="https://github.com/user-attachments/assets/02bb61d6-6b20-4185-8af0-38f7bca03107" />
+<img width="1262" height="1224" alt="image" src="https://github.com/user-attachments/assets/756c6466-e8b0-4c93-8de3-f8347875ca39" />
 
 
 
